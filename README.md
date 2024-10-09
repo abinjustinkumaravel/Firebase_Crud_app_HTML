@@ -27,9 +27,9 @@ Firebase_Crud_app_HTML/
 - **.env**: Contains Firebase configuration keys.
 - **vite.config.js**: Vite configuration file to manage environment variables.
 - **index.html**: The main HTML file with the form.
-- **src/main.js**: Entry point for JavaScript modules.
-- **src/script.js**: Handles Firebase setup and form submission logic.
-- **src/style.css**: Basic styling for the form.
+- **main.js**: Entry point for JavaScript modules.
+- **script.js**: Handles Firebase setup and form submission logic.
+- **style.css**: Basic styling for the form.
 
 ## Prerequisites
 
