@@ -16,11 +16,10 @@ Firebase_Crud_app_HTML/
 ├── package.json
 ├── vite.config.js
 ├── public/
-│   └── favicon.ico
-└── src/
-    ├── main.js
-    ├── script.js
-    └── style.css
+│   └── vite.svg
+├── main.js
+├── script.js
+└── style.css
 ```
 
 ### File Explanation
